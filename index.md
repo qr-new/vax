@@ -11,9 +11,9 @@ layout: home
 
 Some potential options (none of these actually link anywhere, yet, but that is easily wired up):
 
-![](assets/output.png)
-![](assets/output1.png)
-![](assets/output2.png)
-![](assets/output3.png)
+[![](assets/output.png)](/C/PutAnIdHere.html)
+[![](assets/output1.png)](/C/PutAnIdHere.html)
+[![](assets/output2.png)](/C/PutAnIdHere.html)
+[![](assets/output3.png)](/C/PutAnIdHere.html)
 
 I don't know anyone in the CDC/HHS/vaccine distribution area, but if you know someone who knows someone, please pass this along.
