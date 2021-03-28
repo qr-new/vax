@@ -15,5 +15,3 @@ Some potential options (none of these actually link anywhere, yet, but that is e
 [![](assets/output1.png)](/C/PutAnIdHere.html)
 [![](assets/output2.png)](/C/PutAnIdHere.html)
 [![](assets/output3.png)](/C/PutAnIdHere.html)
-
-I don't know anyone in the CDC/HHS/vaccine distribution area, but if you know someone who knows someone, please pass this along.
